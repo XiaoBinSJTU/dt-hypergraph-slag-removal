@@ -1,0 +1,49 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Industrial or experiment data and outputs are outside this release.
+Data/
+data/
+results/
+outputs/
+logs/
+checkpoints/
+*.csv
+*.mat
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.joblib
+*.log
+
+# Local review deliverables are intentionally not part of the public package.
+PUBLIC_RELEASE_REPORT.md
+PROFILE_LINK_SNIPPET.md
+
+# Credentials and local configuration.
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Temporary and backup material.
+tmp/
+temp/
+*.tmp
+*.bak
+*~

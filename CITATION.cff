@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "This repository accompanies an unpublished manuscript. Verify manuscript metadata before citing."
+title: "Digital Twin Hypergraph Cascade Modeling: Core Algorithm Reference Implementation"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Xiao
+    given-names: Bin
